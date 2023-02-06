@@ -14,10 +14,6 @@ Skills: BOOTSTRAP / VUE JS / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanvir-ahamed04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanvir.ahamed04)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanvir-ahamed04)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-ahamed04)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir-ahamed04&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/tanvir-ahamed04)  
