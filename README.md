@@ -1,11 +1,22 @@
-![I'm a freelancer and web developer.](https://img.wapka.org/008m94.png)
-### Hi there 👋, I'm Tanvir Ahamed .
-#### I'm a freelancer and web developer.
+# Hi there, I'm [Tanvir Ahamed Alif] 👋
 
+I'm a passionate beginner Python developer focusing on data analysis and problem-solving. I enjoy creating projects that challenge my skills and help others learn.
 
-I'm Studies BSC  in computer science and technology (CST) at Nanjing Tech University . Beside i'm working on a local company Freelancing Help IT Solution . Also i'm learning coding and ethical hacking .
+## 🌱 Skills
+- **Languages**: Python, HTML, CSS, JavaScript, SQL, C
+- **Frameworks**: Flask, Django
+- **Tools**: Git, GitHub, Data Analysis Tools
 
-Skills: BOOTSTRAP / VUE JS / JS / HTML / CSS
+## 💼 Certifications
+- Data Analysis (Alison)
+- Python Machine Learning (Alison)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tav04/)
+- [Threads](https://www.threads.net/@tanvir.ahamed02)
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about programming!
+
 
 - 🏃 I’m currently working on Freelancing Help IT Solution 
 - 📖 I’m currently learning Coding and Ethical Hacking 
