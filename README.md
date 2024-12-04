@@ -16,10 +16,11 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 - 🏃 I’m currently working on Freelancing Help IT Solution 
 - 📖 I’m currently learning Coding and Ethical Hacking 
-- ## 🌐 Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tav04/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/threads.svg' alt='threads' height='40'>](https://www.threads.net/@tanvir.ahamed02) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanvir.ahamed04)
+- ## 🌐 Connect with Me 
+Let's connect and collaborate on exciting projects!  
+- [Facebook](https://www.facebook.com/tanvir-ahamed04)  
+- [Instagram](https://www.instagram.com/tanvir-ahamed02)  
+- [LinkedIn](https://www.linkedin.com/in/tan04)  
 
 
 ![GitHub metrics](https://metrics.lecoq.io/tanvir-ahamed04)  
